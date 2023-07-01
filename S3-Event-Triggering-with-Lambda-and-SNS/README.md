@@ -9,7 +9,7 @@ This project aims to demonstrate how to set up an AWS S3 event trigger that invo
 3. The Lambda function sends an email notification using the SNS topic subscriptions.
 
 
-![s3-event-trigger](./s3-event-triggering.png)
+![s3-event-trigger](https://github.com/saisamala/AWS-Projects/blob/main/S3-Event-Triggering-with-Lambda-and-SNS/s3-event-triggering.png)
 
 
 ## Setup Instructions
